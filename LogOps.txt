@@ -1,0 +1,94 @@
+Episode " + str(e) + "/" + str(episode_count)
+Buy: $276.10
+Sell: $264.64 | Profit: -$11.47
+Buy: $254.66
+Buy: $264.06
+Buy: $264.74
+Sell: $264.89 | Profit: $10.23
+Buy: $249.85
+Buy: $269.10
+Buy: $269.19
+Buy: $275.21
+Sell: $311.43 | Profit: $47.37
+Sell: $335.21 | Profit: $70.47
+Buy: $339.01
+Buy: $323.13
+Buy: $351.62
+Buy: $403.59
+Sell: $374.66 | Profit: $124.81
+Buy: $418.04
+Sell: $453.18 | Profit: $184.08
+Sell: $472.56 | Profit: $203.37
+Buy: $525.39
+Sell: $598.72 | Profit: $323.51
+Sell: $549.59 | Profit: $210.58
+2022-03-12 13:12:48.286342: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:185] None of the MLIR Optimization Passes are enabled (registered 2)
+Buy: $506.01
+Sell: $526.57 | Profit: $203.43
+Sell: $496.42 | Profit: $144.79
+Buy: $505.08
+Sell: $534.58 | Profit: $130.99
+Sell: $568.47 | Profit: $150.43
+Buy: $562.63
+Sell: $599.71 | Profit: $74.32
+Sell: $624.08 | Profit: $118.07
+Sell: $619.35 | Profit: $114.27
+Sell: $622.10 | Profit: $59.47
+Buy: $675.68
+Buy: $651.66
+Sell: $633.28 | Profit: -$42.40
+Sell: $624.56 | Profit: -$27.10
+Buy: $646.10
+Sell: $662.23 | Profit: $16.13
+Buy: $631.35
+Buy: $672.33
+Buy: $571.43
+Buy: $603.13
+Sell: $563.04 | Profit: -$68.31
+Buy: $562.83
+Sell: $339.03 | Profit: -$333.31
+Sell: $393.61 | Profit: -$177.82
+Sell: $345.31 | Profit: -$257.82
+Buy: $379.85
+Buy: $367.66
+Sell: $329.88 | Profit: -$232.95
+Sell: $305.05 | Profit: -$74.80
+Sell: $354.33 | Profit: -$13.33
+Buy: $427.81
+Buy: $391.40
+Sell: $390.43 | Profit: -$37.38
+Buy: $393.82
+Sell: $357.31 | Profit: -$34.09
+Sell: $354.00 | Profit: -$39.82
+Buy: $352.18
+Buy: $343.74
+Buy: $366.65
+Sell: $373.57 | Profit: $21.38
+Sell: $352.74 | Profit: $9.00
+Sell: $336.81 | Profit: -$29.84
+Buy: $340.07
+Buy: $261.82
+Buy: $294.49
+Sell: $308.40 | Profit: -$31.67
+Buy: $300.21
+Sell: $287.42 | Profit: $25.61
+Buy: $302.38
+Sell: $327.52 | Profit: $33.03
+Buy: $316.48
+Buy: $308.81
+Sell: $264.78 | Profit: -$35.43
+Sell: $292.53 | Profit: -$9.85
+Sell: $293.64 | Profit: -$22.84
+Sell: $299.28 | Profit: -$9.53
+Buy: $304.48
+Sell: $313.60 | Profit: $9.12
+Buy: $331.10
+Sell: $322.75 | Profit: -$8.36
+Buy: $334.92
+Sell: $342.14 | Profit: $7.22
+forrtl: error (200): program aborting due to control-C event
+Image              PC                Routine            Line        Source
+libifcoremd.dll    00007FF9B5303B58  Unknown               Unknown  Unknown
+KERNELBASE.dll     00007FFA3D99B943  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FFA3F947034  Unknown               Unknown  Unknown
+ntdll.dll          00007FFA3FBE2651  Unknown               Unknown  Unknown
